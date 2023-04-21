@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/drivingspring/scripts/main/visual%20pet%20script.txt", true))()
